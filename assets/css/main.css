@@ -60,6 +60,13 @@
   --contrast-color: #000000;
 }
 
+.icons8-tensorflow { 
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwb2x5Z29uIGZpbGw9IiNmZmEwMDAiIHBvaW50cz0iMTYsMzkuNjA5IDIzLDQzLjYwOSAyMyw0IDE2LDgiLz48cG9seWdvbiBmaWxsPSIjZmZhMDAwIiBwb2ludHM9IjIzLDEyLjQzMyA2LDIyLjI1IDYsMTMuNzUgMjMsMy45MzMiLz48cG9seWdvbiBmaWxsPSIjZmZiMzAwIiBwb2ludHM9IjMyLDM5LjYwOSAyNSw0My42MDkgMjUsNCAzMiw4Ii8+PHBvbHlnb24gZmlsbD0iI2ZmYjMwMCIgcG9pbnRzPSIyNSwxMi40MzMgNDIsMjIuMjUgNDIsMTMuNzUgMjUsMy45MzMiLz48cG9seWdvbiBmaWxsPSIjZmZiMzAwIiBwb2ludHM9IjI5LDE5LjczMiAyOSwyNy4zNjUgMzYsMzEuNDA3IDM2LDIzLjc3NSIvPjwvc3ZnPg==') 50% 50% no-repeat;
+  background-size: 100%; }
+
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
