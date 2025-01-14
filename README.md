@@ -20,7 +20,7 @@ This is a personal web project created for fun and learning purposes. It utilize
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/PhatNguyen3174/phatnguyen3174.github.io.git
+    git clone https://github.com/phattnguyeen/phattnguyeen.github.io.git
     ```
 2. Navigate to the project directory:
     ```bash
